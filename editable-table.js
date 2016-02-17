@@ -1,5 +1,3 @@
-module.exports = editableTable
-
 function editableTable ($) {
   // EDITABLE TABLE CLASS DEFINITION
   // ===============================
